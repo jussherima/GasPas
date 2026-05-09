@@ -2,11 +2,14 @@
 
 **A fast, offline, terminal-based password manager.**
 
-![GASPAS Main](images/main.png)
+
 *(Liste des plateformes)*
+<img width="886" height="698" alt="plateforme_list" src="https://github.com/user-attachments/assets/fe09b9be-cf73-4d02-91b3-458c4b9b34bc" />
 
 ![GASPAS Detail](images/detail.png)
 *(Édition des mots de passe)*
+<img width="886" height="698" alt="plateform_data" src="https://github.com/user-attachments/assets/22deeb8e-46e5-418d-b69a-dd18a9d3ff55" />
+
 
 ## Pourquoi GASPAS ?
 
