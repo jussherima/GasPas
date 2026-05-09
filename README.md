@@ -13,7 +13,7 @@
 
 ## Pourquoi GASPAS ?
 
-GASPAS (Gérer ASses PASswords) est fait pour ceux qui vivent dans le terminal. Pas de cloud, pas d'interface web lourde. Vos mots de passe sont chiffrés localement et accessibles au clavier en un clin d'œil.
+GASPAS  est fait pour ceux qui vivent dans le terminal. Pas de cloud, pas d'interface web lourde. Vos mots de passe sont chiffrés localement et accessibles au clavier en un clin d'œil.
 
 ## Fonctionnalités
 
